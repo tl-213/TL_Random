@@ -1,1 +1,0 @@
-function systemLoop_spinLucky() {};
